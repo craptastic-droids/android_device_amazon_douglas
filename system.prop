@@ -1,0 +1,12 @@
+#
+# system.prop for Amazon Fire HD8 2017
+#
+
+# Audio
+ro.smartvolume.config=/system/vendor/smartvolume/douglas/
+
+# OTAs
+lineage.updater.uri=https://raw.githubusercontent.com/R0rt1z2/OTA/lineage-15.1/lineageos_douglas.json
+
+# MediaTek
+ro.mediatek.project.path=device/amazon/douglas
